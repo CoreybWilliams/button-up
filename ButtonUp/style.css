@@ -1,0 +1,32 @@
+
+.search{
+    margin: 1em;
+    color: mediumaquamarine;
+    background-color: white;
+    border-radius: 1em;
+    border-color: mediumaquamarine;
+    width: 10em;
+    height: 2em;
+    font-size: 1em;
+}
+.plus{
+    background-color: mediumaquamarine;
+    border: 0px;
+    padding: 0px 0px 0px 0px;
+    color: white;
+    border-radius: 4em;
+    font-size: 3em;
+    width:  1em;
+    height: 1em;
+
+}
+.create{
+    border: 3px 10px 10px 3px black;
+    margin: 10px -10px 0px 0px;
+    background-color: rgb(80, 150, 255);
+    font-size: 25px;
+    padding: 0px 3px 3px 0px;
+    padding: color black;
+    color: white;
+    
+}
